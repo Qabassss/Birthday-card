@@ -84,7 +84,7 @@ Make a digital birthday crad by using HTML and CSS.
     <div class="book">
       <div class="cover">
         <p>open the card!!</p>
-        <h2>Happy Birthdayyy<br><span>Mais</span></h2>
+        <h2>Happy Birthdayyy<br><span>---</span></h2>
         <p>from: your sis🤍</p>
       </div>
       <div class="content" style="font-size: 17px;">
